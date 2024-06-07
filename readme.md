@@ -1,4 +1,4 @@
-# Future Hacks 2021 Project Submission
+# Future Hacks 2021 Project Submission [Winner!]
 by Abhik Ray, Noah Addeo, Sarthak Mohapatra and Hammad Farooqi
 
 ## Instructions 
